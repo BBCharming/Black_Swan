@@ -35,16 +35,15 @@ This project is part of **Operation Spectre**, an ongoing cybersecurity automati
    chmod +x black_swan.sh
 
 4. **Run as root:**
-    ```bash
-Copy code
-sudo ./black_swan.sh
+   ```bash
+    sudo ./black_swan.sh
 
 
 6. **Check outputs:**
     ```bash
-Logs: /var/log/black_swan.log
+   Logs: /var/log/black_swan.log
 
-Backup: /home/username/black_swan_backups/home_backup_YYYY-MM-DD_HH-MM-SS.tar.gz
+   Backup: /home/username/black_swan_backups/home_backup_YYYY-MM-DD_HH-MM-SS.tar.gz
 
 🧰 Expected Output (Screenshot Placeholder)
 Screenshot terminal output:
