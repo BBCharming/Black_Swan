@@ -45,9 +45,13 @@ This project is part of **Operation Spectre**, an ongoing cybersecurity automati
 
    Backup: /home/username/black_swan_backups/home_backup_YYYY-MM-DD_HH-MM-SS.tar.gz
 
-🧰 Expected Output (Screenshot Placeholder)
+🧰 Expected Output 
 Screenshot terminal output:
-(Replace this with an actual screenshot when running the script)
+![Operation](operaion.png "Launch program")
+![Black](black.png "Program in Execuion")
+![Swan](sswan.png "End of Program")
+
+
 
 
 ========== Project Black Swan Run: 2025-10-29_10-05-00 ==========
@@ -57,6 +61,9 @@ Screenshot terminal output:
 [✓] Operation completed successfully at 2025-10-29_10-05-00
 Logs saved to /var/log/black_swan.log
 Backup stored at /home/username/black_swan_backups/home_backup_2025-10-29_10-05-00.tar.gz
+
+---
+
 🧠 Author’s Notes
 Designed for learning and practical Linux automation experience
 
