@@ -47,9 +47,9 @@ This project is part of **Operation Spectre**, an ongoing cybersecurity automati
 
 🧰 Expected Output 
 Screenshot terminal output:
-![Operation](operaion.png "Launch program")
+![Operation](operation.png "Launch program")
 ![Black](black.png "Program in Execuion")
-![Swan](sswan.png "End of Program")
+![Swan](swan.png "End of Program")
 
 
 
